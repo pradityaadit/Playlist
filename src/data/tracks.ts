@@ -7,13 +7,7 @@ import AboutYou from "./AboutYou.mp3";
 import YouWillBe from "./YouWillBe.mp3";
 import Always from "./Always.mp3";
 
-import ifgun from "../img/ifIhadAgun.jpg";
-import soraiImg from "../img/sorai.jpg";
-import OneOnlyImg from "../img/oneandonly.jpg";
-import ramaiImg from "../img/RamaiSepih.jpg";
-import AboutYouImg from "../img/AboutYou.jpg";
-import YouwillBeImg from "../img/YouWillBe.jpg";
-import AlwaysImg from "../img/Always.jpg";
+import YouwillBeImg from "../img/youwill.jpg";
 
 export const tracks: MusicTrack[] = [
   {
@@ -21,7 +15,7 @@ export const tracks: MusicTrack[] = [
     title: "Sorai",
     artist: "Nadin Amizah",
     genre: "Electronic",
-    cover: soraiImg,
+    cover: YouwillBeImg,
     audioSrc: sorai,
     philosophy:
       "(Mungkin akhirnya tak jadi satu Namun bersorai pernah bertemu) haduhhh kak nadin siapa yang kuat dengar lirik ini kakkk nadinnnnnn.",
@@ -60,7 +54,7 @@ export const tracks: MusicTrack[] = [
     title: "One and only",
     artist: "Pamungkas",
     genre: "Rock",
-    cover: OneOnlyImg,
+    cover: YouwillBeImg,
     audioSrc: OneOnly,
     philosophy:
       "Untuk Mu ku usahakan yang terbaik, kira kira gitu sih maknanya, yaa walaupun tak bisa terucap secara langsung tapi ku harap lagu ini bisa mewakilkan perasaan yang ku rasakan kepada mu.",
@@ -137,7 +131,7 @@ export const tracks: MusicTrack[] = [
     title: "Ramai sepih bersama",
     artist: "Hindia",
     genre: "Jazz",
-    cover: ramaiImg,
+    cover: YouwillBeImg,
     audioSrc: RamaiSepih,
     philosophy:
       "A celebration of improvisation and spontaneity, this composition honors the rich tradition of jazz while infusing personal expression. Each note is a conversation between the past and present.",
@@ -156,7 +150,7 @@ export const tracks: MusicTrack[] = [
     title: "About you",
     artist: "The 1975",
     genre: "Ambient",
-    cover: AboutYouImg,
+    cover: YouwillBeImg,
     audioSrc: AboutYou,
     philosophy:
       "An exploration of consciousness and the boundaries between dreams and reality. The atmospheric layers create a sense of floating through time and space, inviting listeners to look inward.",
@@ -199,7 +193,7 @@ export const tracks: MusicTrack[] = [
     title: "Always",
     artist: "Daniel Caesar",
     genre: "Galau Brutal",
-    cover: AlwaysImg,
+    cover: YouwillBeImg,
     audioSrc: Always,
     philosophy:
       "If I Had a Gun karya Noel Gallagher, memiliki makna mendalam tentang cinta dan keinginan melindungi orang yang dicintai. Lagu ini menggambarkan perasaan cinta yang kuat, hasrat yang membara, dan keinginan untuk menjaga hubungan tetap awet dan bersama selamanya",
@@ -258,7 +252,7 @@ export const tracks: MusicTrack[] = [
     title: "If I Had a Gun...",
     artist: "Noel Gallagher's High Flying Birds",
     genre: "Galau Brutal",
-    cover: ifgun,
+    cover: YouwillBeImg,
     audioSrc: music1,
     philosophy:
       "If I Had a Gun karya Noel Gallagher, memiliki makna mendalam tentang cinta dan keinginan melindungi orang yang dicintai. Lagu ini menggambarkan perasaan cinta yang kuat, hasrat yang membara, dan keinginan untuk menjaga hubungan tetap awet dan bersama selamanya",

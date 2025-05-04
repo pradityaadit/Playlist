@@ -159,7 +159,7 @@ const AboutSection: React.FC = () => {
                 href="/"
                 className="text-gold-400 font-medium flex items-center group"
               >
-                Learn more about our story
+                Balik ke permukaan
                 <svg
                   className="ml-2 w-5 h-5 transition-transform group-hover:translate-x-1"
                   fill="none"

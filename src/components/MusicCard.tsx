@@ -48,7 +48,7 @@ const MusicCard: React.FC<MusicCardProps> = ({
   return (
     <motion.div
       layoutId={`music-card-${track.id}`}
-      className={`bg-secondary-900/80 backdrop-blur-sm rounded-lg overflow-hidden ${
+      className={`bg-secondary-700 backdrop-blur-sm rounded-lg overflow-hidden ${
         isExpanded ? "absolute inset-4 z-40 md:w-auto md:h-auto" : "h-full"
       }`}
       initial={{ opacity: 0, y: 20 }}

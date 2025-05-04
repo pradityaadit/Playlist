@@ -76,7 +76,7 @@ const MusicSection: React.FC<MusicSectionProps> = ({
             transition={{ duration: 0.7, delay: 0.1 }}
             viewport={{ once: true, margin: "-100px" }}
           >
-            Discover <span className="text-gold-400">Music</span>
+            Album <span className="text-gold-400">Music</span>
           </motion.h2>
           <motion.div
             className="h-1 w-20 bg-gold-500 mx-auto mb-6"
@@ -92,8 +92,9 @@ const MusicSection: React.FC<MusicSectionProps> = ({
             transition={{ duration: 0.7, delay: 0.2 }}
             viewport={{ once: true, margin: "-100px" }}
           >
-            Explore our curated collection of music across various genres. Click
-            on a track to learn more about its philosophy or play it instantly.
+            "Bersedihlah manusia-manusia yang menyimpan seseorang pada setiap
+            syair lagu yang mematahkan kepingan hati hingga hancur tak tersisa"
+            -PendengarSpotifyJam2Malam
           </motion.p>
         </motion.div>
 

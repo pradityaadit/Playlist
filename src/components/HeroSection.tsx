@@ -63,7 +63,7 @@ const HeroSection: React.FC<HeroSectionProps> = ({ setCurrentSection }) => {
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
               >
-                About Us
+                About
               </motion.button>
             </motion.div>
           </motion.div>

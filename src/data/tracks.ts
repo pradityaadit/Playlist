@@ -18,7 +18,7 @@ export const tracks: MusicTrack[] = [
     cover: "https://i.scdn.co/image/ab67616d0000b2737d6b0a5ae92793f5d21be67a",
     audioSrc: sorai,
     philosophy:
-      "(Mungkin akhirnya tak jadi satu Namun bersorai pernah bertemu) haduhhh kak nadin siapa yang kuat dengar lirik ini kakkk nadinnnnnn.",
+      "Bersatu atau tidaknya kita biarlah menjadi kehendak tuhan, siapalah diriku hanya sebatas orang yang dapat mengaggumi mu dari kejauhan. mencintai mu adalah anugrah terindah yang pernah kurasakan, walaupun pada akhirnya kita hanya sebatas renungan. Terimakasih karena sudah menjadi cerita manis dari panjangnnya sebuah perjalanan.",
     year: 2019,
     lyrics: [
       { time: 0, text: "......." },
@@ -144,7 +144,7 @@ export const tracks: MusicTrack[] = [
     cover: "https://i.scdn.co/image/ab67616d0000b2731f44db452a68e229650a302c",
     audioSrc: AboutYou,
     philosophy:
-      "An exploration of consciousness and the boundaries between dreams and reality. The atmospheric layers create a sense of floating through time and space, inviting listeners to look inward.",
+      "Kata langit tak baik jika berlama lama bersedih tentang masalalu, namun bagaimana jika ingatan ku hanya sebatas dirimu ? yaaa aku tau hidup akan terus berjalan, namun manusia mana yang tak ingin merasakan jalan bersama kebahagiaan. 'Di perjalanan yang jauh ini jangan menjadi milik siapa siapa dulu ya ?' -3726 mdpl  ",
     year: 2023,
     lyrics: [{ time: 0, text: "Belum Ada Lirik Yang Ngoding Capek 😅" }],
   },
@@ -157,7 +157,7 @@ export const tracks: MusicTrack[] = [
     cover: YouwillBeImg,
     audioSrc: YouWillBe,
     philosophy:
-      "A powerful statement on cultural identity and social unity through rhythm. This track embodies the philosophy that music transcends barriers and brings people together through shared experiences.",
+      "Staying is a art of loving, Beberapa orang mempercayai kalimat sakral tersebut mungkin karena sebelumnya mereka kurang beruntung dalam hal perasaan. Namun, bagiku kata tersebut lebih dari sekedar arti sakral. siapa yang tak ingin kekal pada waktu yang fana ? semoga, tidakk bukan semoga. kan ku usahan selalu terbuka saat kau lelah menghadapi badai yang tak kunjung redah.",
     year: 2022,
     lyrics: [{ time: 0, text: "Belum Ada Lirik Yang Ngoding Capek 😅" }],
   },
@@ -184,7 +184,7 @@ export const tracks: MusicTrack[] = [
     cover: "https://i1.sndcdn.com/artworks-000081989365-y8c0qd-t500x500.jpg",
     audioSrc: music1,
     philosophy:
-      "If I Had a Gun karya Noel Gallagher, memiliki makna mendalam tentang cinta dan keinginan melindungi orang yang dicintai. Lagu ini menggambarkan perasaan cinta yang kuat, hasrat yang membara, dan keinginan untuk menjaga hubungan tetap awet dan bersama selamanya",
+      "Kadang, kita cuma bisa mencintai dari kejauhan,karena jarak bukan cuma soal tempat—tapi juga waktu, keberanian, dan kemungkinan. mungkin aku bukan pahlawan.. hanya seseorang yang selalu menyediakan tempat untuk kembali tenang dalam dunia yang terus berperang. ",
     year: 2011,
     lyrics: [
       { time: 19, text: "If I had a gun, I'd shoot a hole into the sun" },

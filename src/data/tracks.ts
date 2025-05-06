@@ -187,7 +187,7 @@ export const tracks: MusicTrack[] = [
     cover: "https://i.scdn.co/image/ab67616d0000b2731f44db452a68e229650a302c",
     audioSrc: AboutYou,
     philosophy:
-      "Kata langit tak baik jika berlama lama bersedih tentang masalalu, namun bagaimana jika ingatan ku hanya sebatas dirimu ? yaaa aku tau hidup akan terus berjalan, namun manusia mana yang tak ingin merasakan jalan bersama kebahagiaan. 'Di perjalanan yang jauh ini jangan menjadi milik siapa siapa dulu ya ?' -3726 mdpl  ",
+      "Kata langit tak baik jika berlama lama bersedih tentang masalalu, namun bagaimana jika ingatan ku hanya sebatas dirimu ? yaaa aku tau hidup akan terus berjalan, namun manusia mana yang tak ingin merasakan jalan bersama kebahagiaan. 'Di perjalanan yang panjang ini jangan menjadi milik siapa siapa dulu ya ?' -3726 mdpl  ",
     year: 2023,
     lyrics: [
       { time: 0, text: "♪..♪..♪..♪" },
